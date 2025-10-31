@@ -1,8 +1,9 @@
 import java.io.*
+
 Class Employee
 {
 
-System.out.println("welcome");
+System.out.println("Hello");
 
   String name="Srinivas";
 
