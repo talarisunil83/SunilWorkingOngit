@@ -6,6 +6,7 @@ Class Employee
 System.out.println("welcome");
 
   String name="Srinivas";
+  boolean is=true;
 
 
 
