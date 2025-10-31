@@ -8,6 +8,9 @@ System.out.println("welcome");
   String name="Srinivas";
   String val="2342411";
   int empId=101;
+  boolean is=true;
+  char c='a';
+
 
 
 
